@@ -51,6 +51,30 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zrc.BudgetingBuddy",
+      "developerName": "Zane Hipkin",
+      "subtitle": "模拟iOS4",
+      "localizedDescription": "iOS4拟物化怀旧",
+      "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/oldos.png",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "12",
+          "date": "2026-08-01",
+          "downloadURL": "https://gh-proxy.com/https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
+          "size": 83886080,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ]
 }
