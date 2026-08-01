@@ -1,0 +1,32 @@
+{
+  "name": "QyIPAs",
+  "subtitle": "Qy的源",
+  "description": "收集常用IPA",
+  "iconURL": "https://gh-proxy.com/https://github.com/ish-app/ish/blob/master/app/Icons/icon.png",
+  "apps": [
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.ish",
+      "developerName": "Theodore Dubois",
+      "subtitle": "32位Linux",
+      "localizedDescription": "Alpine Linux 模拟器",
+      "iconURL": "https://gh-proxy.com/https://github.com/ish-app/ish/blob/master/app/Icons/icon.png",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "build812",
+          "buildVersion": "812",
+          "date": "2026-08-01",
+          "downloadURL": "https://gh-proxy.com/https://github.com/ish-app/ish/releases/download/builds%2F812/iSH.ipa",
+          "size": 5242880,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
