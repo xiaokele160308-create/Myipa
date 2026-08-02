@@ -37,6 +37,7 @@
       "subtitle": "提取Deb",
       "localizedDescription": "提取YY源里的Deb",
       "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/Debs.png",
+      "tintColor": "#000000"
       "category": "utilities",
       "screenshots": [],
       "versions": [
