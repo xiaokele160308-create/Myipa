@@ -2,7 +2,7 @@
   "name": "QyIPAs",
   "subtitle": "Qy的源",
   "description": "收集常用IPA",
-  "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/fire.png",
+  "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaokele160308-create/Myipa/main/assets/fire.png",
   "apps": [
     {
       "name": "iSH",
@@ -10,11 +10,11 @@
       "developerName": "Theodore Dubois",
       "subtitle": "32位Linux",
       "localizedDescription": "Alpine Linux 模拟器",
-      "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/icon.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaokele160308-create/Myipa/main/assets/icon.png",
       "tintColor": "#000000",
       "category": "utilities",
       "screenshots": [
-    "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/iSH1.png"
+    "https://gh-proxy.com/https://raw.githubusercontent.com/xiaokele160308-create/Myipa/main/assets/iSH1.png"
 ],
       "versions": [
         {
@@ -37,8 +37,8 @@
       "developerName": "ios(ipa)dump",
       "subtitle": "提取Deb",
       "localizedDescription": "提取YY源里的Deb",
-      "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/Debs.png",
-      "tintColor": "#662549",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaokele160308-create/Myipa/main/assets/Debs.png",
+      "tintColor": "#301934",
       "category": "utilities",
       "screenshots": [],
       "versions": [
@@ -62,7 +62,7 @@
       "developerName": "Zane Hipkin",
       "subtitle": "模拟iOS4",
       "localizedDescription": "iOS4拟物化怀旧",
-      "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/oldos.png",
+      "iconURL": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaokele160308-create/Myipa/main/assets/oldos.png",
       "tintColor": "#383E44",
       "category": "utilities",
       "screenshots": [],
