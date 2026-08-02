@@ -38,6 +38,7 @@
       "subtitle": "提取Deb",
       "localizedDescription": "提取YY源里的Deb",
       "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/Debs.png",
+      "tintColor": "#662549",
       "category": "utilities",
       "screenshots": [],
       "versions": [
@@ -62,6 +63,7 @@
       "subtitle": "模拟iOS4",
       "localizedDescription": "iOS4拟物化怀旧",
       "iconURL": "https://gh-proxy.com/https://github.com/xiaokele160308-create/Myipa/blob/main/assets/oldos.png",
+      "tintColor": "#383E44",
       "category": "utilities",
       "screenshots": [],
       "versions": [
